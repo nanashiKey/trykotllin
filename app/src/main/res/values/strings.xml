@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TryKotlinLang</string>
+    <string name="signin_uname">Username</string>
+    <string name="signin_passwd">Password</string>
+    <string name="login">LOGIN</string>
 </resources>
+

@@ -18,6 +18,12 @@
                   android:paddingRight="20dp"
                   android:paddingLeft="20dp"
                   android:layout_margin="15dp">
+        <TextView
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:text="LOGIN"
+                  android:textSize="25sp"
+                  android:textAlignment="center"/>
         <EditText
                   android:id="@+id/et_username"
                   android:layout_width="match_parent"
@@ -40,9 +46,9 @@
                   android:id="@+id/tv_newac"
                   android:layout_width="match_parent"
                   android:layout_height="wrap_content"
-                  android:text="Create Account"
+                  android:text="Create Account?"
                   android:textAlignment="center"
-                  android:textColor="@color/colorPrimaryDark"
+                  android:textColor="@color/warnaBiruMuda"
                   android:layout_margin="10dp"/>
 
     </LinearLayout>

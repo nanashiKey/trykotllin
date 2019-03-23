@@ -8,6 +8,11 @@ import org.jetbrains.anko.alert
 import org.jetbrains.anko.info
 import org.jetbrains.anko.toast
 
+/**
+ * @resources from https://www.codepolitan.com/belajar-anko-kotlin-bagian-1-5a9295bf49259
+ * @author Irfan Assidiq
+ */
+
 class Register : AppCompatActivity(), AnkoLogger {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

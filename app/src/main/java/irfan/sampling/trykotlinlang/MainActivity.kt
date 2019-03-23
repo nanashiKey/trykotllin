@@ -5,6 +5,11 @@ import android.os.Bundle
 import kotlinx.android.synthetic.main.activity_main.*
 import org.jetbrains.anko.*
 
+/**
+ * @resources from https://www.codepolitan.com/belajar-anko-kotlin-bagian-1-5a9295bf49259
+ * @author Irfan Assidiq
+ */
+
 class MainActivity : AppCompatActivity(), AnkoLogger {
 
     override fun onCreate(savedInstanceState: Bundle?) {
